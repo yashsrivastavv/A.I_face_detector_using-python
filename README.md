@@ -5,9 +5,9 @@
 **This is a python script that gets access to your camera and detects faces of different people in one frame and capture and store them at specific folder** 
 
 Steps:
-_Install the requirements.txt file.
-_Then run the python script.
+-Install the requirements.txt file.
+  -Then run the python script.
 
 Requirements:
-_You need to install python 3.9 from https://www.python.org/
-_Install all the repositories through **pip** using command prompt.
+-You need to install python 3.9 from https://www.python.org/
+  -Install all the repositories through **pip** using command prompt.
